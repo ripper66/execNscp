@@ -2,7 +2,7 @@
 #
 # Host Compliance Scan Script SSH and SCP based on text file.
 # 2nd Stage of script
-echo "Please do SSH copy ID and SCP command before run this script if not it will fail"
+echo "Please do SSH copy ID and SCP command before run this script else it will definitely fail"
 echo "Executing the CIS Bash Script..."
 cat << "EOF"
 echo "========================================="
